@@ -1,0 +1,58 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: 'Niramit', sans-serif;
+}
+
+canvas{
+
+}
+
+#score{
+  padding-top: 25px;
+}
+
+#app{
+  background: #444444;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -320px;
+  margin-top: -420px;
+  color: white;
+  font-size: 42px;
+  line-height: 0px;
+}
+
+
+
+#sidebar{
+  border: 1px solid #969696;
+}
+
+#sidebar h1 {
+  text-align: center;
+  font-size: 42px;
+  font-weight: 300;
+  position: relative;
+  top: 25px;
+}
+
+#score {
+  font-size: 20px;
+  padding-bottom: 10px;
+  padding-top: 0px;
+  margin-top: 0px;
+  position: relative;
+  left: 5px;
+
+}
+
+#level {
+  font-size: 20px;
+  padding-bottom: 10px;
+  padding-top: 0px;
+  margin-top: 0px;
+  position: relative;
+  left: 5px;
+}
